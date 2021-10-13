@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/steps/extras", (function(a,b){return {data:[{payload:{Title:a,Id:b,Link:"extras",Order:b,MaxCards:2,H4:a,TextBody1:"THIS_LIFETIME_THERE_IS_NO_NEED_FOR_YEARLY_UPDATES_SUPPORT_IS_FREE",MinCards:1,ShortH5:"EXTRAS_SHORT"}}],fetch:{},mutations:[]}}("EXTRAS",4)));
