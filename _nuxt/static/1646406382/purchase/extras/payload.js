@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/purchase/extras", (function(a){return {data:[{payload:{Title:"EXTRAS",Id:a,Link:"extras",Order:a,MaxCards:2,H4:"STEP4_PAGE_H",TextBody1:"STEP4_PAGE_DESCRIPTION",MinCards:0,ShortH5:"STEP4_PAGE_SHORT"}}],fetch:{},mutations:[]}}(4)));
