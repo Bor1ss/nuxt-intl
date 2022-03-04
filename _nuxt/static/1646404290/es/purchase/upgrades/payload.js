@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/purchase/upgrades", {data:[{payload:{}}],fetch:{},mutations:[]});
