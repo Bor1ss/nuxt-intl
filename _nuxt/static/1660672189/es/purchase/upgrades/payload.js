@@ -1,0 +1,1 @@
+__NUXT_JSONP__("es/purchase/upgrades", (function(a){return {data:[{payload:{Title:"STEPS_BAR_STEP2",Id:a,Link:"upgrades",Order:a,MaxCards:1,H4:"STEP2_PAGE_H",TextBody1:"STEP2_PAGE_DESCRIPTION",MinCards:0,ShortH5:"STEP2_PAGE_H_SHORT",MetaTitle:"STEP2_META_TITLE",MetaDescription:"STEP2_META_DESCRIPTION",MetaKeywords:"STEP2_META_KEYWORDS"}}],fetch:{},mutations:[]}}(2)));
